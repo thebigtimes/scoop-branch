@@ -1,0 +1,8 @@
+{
+    "homepage": "http://nuget.codeplex.com/",
+    "version": "3.2.0",
+    "license": "Apache 2.0",
+    "url": "https://dist.nuget.org/win-x86-commandline/v3.2.0/nuget.exe",
+    "hash": "2760cee595d00461202e82e2c3d786433c12646e3bc5de0535537c071eed454f",
+    "bin": "nuget.exe"
+}

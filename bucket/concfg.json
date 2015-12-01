@@ -1,0 +1,8 @@
+{
+    "homepage": "https://github.com/lukesampson/concfg",
+    "version": "0.2015.10.16",
+    "url": "https://github.com/lukesampson/concfg/archive/e755f6.zip",
+    "hash": "322bf3147587d327c39d00b944bc9390bb931b014c1fe55ad71889a67ac9badd",
+    "extract_dir": "concfg-e755f67228bc8ee9eea119de9f248ccf2e60496c",
+    "bin": "bin\\concfg.ps1"
+}
